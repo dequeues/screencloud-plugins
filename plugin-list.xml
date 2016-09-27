@@ -66,4 +66,14 @@
         <weblink>https://github.com/olav-st/screencloud-plugins</weblink>
         <download>https://raw.githubusercontent.com/olav-st/screencloud-plugins/master/shell/current.zip</download>
     </plugin>
+    <plugin>
+      <name>Custom FTP</name>
+      <shortname>ftp_custom</shortname>
+      <author>Olav Sortland Thoresen</author>
+      <version>1.7</version>
+      <category>online</category>
+      <icon>https://raw.githubusercontent.com/dequeues/screencloud-plugins/custom_ftp/ftp_custom/icon.png</icon>
+      <weblink>https://github.com/dequeues/screencloud-plugins/tree/custom_ftp</weblink>
+      <download>https://github.com/dequeues/screencloud-plugins/blob/custom_ftp/ftp_custom/current.zip</download>
+    </plugin>
 </plugins>
