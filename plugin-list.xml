@@ -74,6 +74,6 @@
       <category>online</category>
       <icon>https://raw.githubusercontent.com/dequeues/screencloud-plugins/custom_ftp/ftp_custom/icon.png</icon>
       <weblink>https://github.com/dequeues/screencloud-plugins/tree/custom_ftp</weblink>
-      <download>https://github.com/dequeues/screencloud-plugins/blob/custom_ftp/ftp_custom/current.zip</download>
+      <download>https://github.com/dequeues/screencloud-plugins/raw/custom_ftp/ftp_custom/current.zip</download>
     </plugin>
 </plugins>
