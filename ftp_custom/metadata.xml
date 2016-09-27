@@ -1,0 +1,7 @@
+<metadata>
+	<name>FTP Custom (github.com/dequeues)</name>
+	<shortname>ftp_custom</shortname>
+	<className>FTPUploader</className>
+	<icon>icon.png</icon>
+	<version>1.0</version>
+</metadata>
